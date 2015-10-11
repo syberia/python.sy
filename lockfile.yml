@@ -1,10 +1,11 @@
--
-  name: director
-  version: 0.3.0.5
-  repo: robertzk/director
-  ref: documentation_cleanup
--
-  name: syberia
-  version: 0.5.0
-  repo: robertzk/syberia
-  ref: engines
+packages:
+  -
+    name: director
+    version: 0.3.0.5
+    repo: robertzk/director
+    ref: documentation_cleanup
+  -
+    name: syberia
+    version: 0.5.0
+    repo: robertzk/syberia
+    ref: engines
