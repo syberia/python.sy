@@ -47,8 +47,11 @@ coconut <- function(adjective) {
 Opening the R console from the root of the project, we notice
 
 ```r
-syberia_project()$resource("toplevel")
-# list(chocolate = "Chocolate makes me happy!",
-#      coconut = "Eating coconut leaves me delighted.")
+syberia_engine(".")$resource("toplevel")
+# $chocolate
+# [1] "Chocolate makes me happy!"
+# 
+# $coconut
+# [1] "Eating coconut leaves one feeling delighted."
 ```
 
