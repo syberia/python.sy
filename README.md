@@ -39,7 +39,7 @@ chocolate <- function(adjective) {
   sprintf("Chocolate makes me %s!", adjective)
 }
 
-chocolate <- function(coconut) {
+coconut <- function(adjective) {
   sprintf("Eating coconut leaves one feeling %s.", adjective)
 }
 ```
