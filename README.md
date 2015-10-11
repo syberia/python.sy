@@ -23,7 +23,6 @@ engine("python", type = "github", repo = "syberia/python.sy", mount = TRUE)
 Example
 -------
 
-
 You can then start working with R as if it's python:
 
 ```r
