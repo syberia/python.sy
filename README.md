@@ -55,3 +55,5 @@ syberia_engine(".")$resource("toplevel")
 # [1] "Eating coconut leaves one feeling delighted."
 ```
 
+Check out the [repo for this example](https://github.com/syberia/python.sy-example).
+
